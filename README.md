@@ -39,7 +39,8 @@ Java.perform(function () {
 
 명령어: ```frida -Uf <Identifier> -l isrooted.js```
 
-![프리다 화면 마스킹](https://github.com/user-attachments/assets/c99c5d65-d349-4aeb-8464-ee0ab73b72a7)
+![프리다 화면 마스킹](https://github.com/user-attachments/assets/5d73627b-2c7d-479e-ad67-44f68861bb50)
+
 
 # 결과 루팅 우회 성공
 
